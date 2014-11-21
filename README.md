@@ -2,7 +2,7 @@
 
 This library can generate strings like password, Loremp Ipsum, etc.
     
-    [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Lysanthius/A3_PSR/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Lysanthius/A3_PSR/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Lysanthius/A3_PSR/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Lysanthius/A3_PSR/?branch=master)
 
 ## Password
 
