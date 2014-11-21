@@ -18,8 +18,12 @@ require __DIR__.'/vendor/autoload.php';
 //$slugify = new \Cocur\Slugify\Slugify();
 //echo $slugify->slugify('L\'histoire de la jolie Licorne Magique ♥');
 
-
+/*
 echo \OKLM\StringGenerator\PasswordGenerator::generate(10, \OKLM\StringGenerator\PasswordGenerator::PASSWORD_EASY).'<br>';
 echo \OKLM\StringGenerator\PasswordGenerator::generate(10, \OKLM\StringGenerator\PasswordGenerator::PASSWORD_MEDIUM).'<br>';
 echo \OKLM\StringGenerator\PasswordGenerator::generate(10, \OKLM\StringGenerator\PasswordGenerator::PASSWORD_STRONG).'<br>';
 echo \OKLM\StringGenerator\PasswordGenerator::generate(10,'lfjlfj"ofj').'<br>';
+*/
+
+echo \OKLM\StringGenerator\TextGenerator::generate(20).PHP_EOL;
+echo \OKLM\StringGenerator\TextGenerator::generate(100).PHP_EOL;
